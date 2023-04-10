@@ -22,4 +22,4 @@ def main():
     print("The largest number is:", max_num)
 
 # call the main function
-main()
+
